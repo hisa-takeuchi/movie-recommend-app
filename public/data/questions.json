@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "keyword": "mood",
+    "question": "映画を見てどんな気分になりたいですか？",
+    "answers": [
+      { "value": 1, "label": "リラックスしたい" },
+      { "value": 2, "label": "興奮したい" },
+      { "value": 3, "label": "考えさせられたい" },
+      { "value": 4, "label": "感動したい" },
+      { "value": 5, "label": "笑いたい" },
+      { "value": 6, "label": "特になし" }
+    ]
+  },
+  {
+    "id": 2,
+    "keyword": "genre",
+    "question": "普段どんなジャンルの映画をよく観ますか？",
+    "answers": [
+      { "value": 1, "label": "アクション" },
+      { "value": 2, "label": "SF" },
+      { "value": 3, "label": "ロマンス" },
+      { "value": 4, "label": "ホラー" },
+      { "value": 5, "label": "ドキュメンタリー" },
+      { "value": 6, "label": "コメディ" },
+      { "value": 7, "label": "その他" }
+    ]
+  },
+  {
+    "id": 3,
+    "keyword": "who",
+    "question": "誰と映画を見ますか？",
+    "answers": [
+      { "value": 1, "label": "一人で" },
+      { "value": 2, "label": "恋人と" },
+      { "value": 3, "label": "家族と" },
+      { "value": 4, "label": "友達と" }
+    ]
+  },
+  {
+    "id": 4,
+    "keyword": "length",
+    "question": "映画の長さについてどう思いますか？",
+    "answers": [
+      { "value": 1, "label": "短い方が良い（90分以内）" },
+      { "value": 2, "label": "普通（90分～120分" },
+      { "value": 3, "label": "長い方が良い（120分以上）" },
+      { "value": 4, "label": "気にしない" }
+    ]
+  },
+  {
+    "id": 5,
+    "keyword": "place",
+    "question": "映画を見る場所はどこですか？",
+    "answers": [
+      { "value": 1, "label": "自宅のリビング" },
+      { "value": 2, "label": "ベッドルーム" },
+      { "value": 3, "label": "外出先で" },
+      { "value": 4, "label": "旅行中に" },
+      { "value": 5, "label": "その他" }
+    ]
+  },
+  {
+    "id": 6,
+    "keyword": "theme",
+    "question": "映画の中で最も好きなテーマは何ですか？",
+    "answers": [
+      { "value": 1, "label": "友情" },
+      { "value": 2, "label": "愛" },
+      { "value": 3, "label": "冒険" },
+      { "value": 4, "label": "復讐" },
+      { "value": 5, "label": "成長" },
+      { "value": 6, "label": "その他" }
+    ]
+  },
+  {
+    "id": 7,
+    "keyword": "important",
+    "question": "映画選びで最も重要視するのは何ですか？",
+    "answers": [
+      { "value": 1, "label": "ストーリー" },
+      { "value": 2, "label": "キャスト" },
+      { "value": 3, "label": "監督" },
+      { "value": 4, "label": "映像・音楽" },
+      { "value": 5, "label": "特になし" }
+    ]
+  },
+  {
+    "id": 8,
+    "keyword": "feeling",
+    "question": "見たい映画の時代設定はありますか？",
+    "answers": [
+      { "value": 1, "label": "過去" },
+      { "value": 2, "label": "現代" },
+      { "value": 3, "label": "未来" },
+      { "value": 4, "label": "特になし" }
+    ]
+  },
+  {
+    "id": 9,
+    "keyword": "setting",
+    "question": "いつ映画を見ますか？",
+    "answers": [
+      { "value": 1, "label": "朝" },
+      { "value": 2, "label": "昼" },
+      { "value": 3, "label": "夕方" },
+      { "value": 4, "label": "夜" },
+      { "value": 5, "label": "深夜" }
+    ]
+  }
+]
